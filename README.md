@@ -8,9 +8,11 @@ The searching is handled with a mix of python and SQL.
 'Documents' are retrieved from the database and translated to HTML for display purposes.
 
 
-Goal: Connect numerous little pieces of information and make them searchable, so they can be found immediately
+Use: Note-taking and organizing notes in such a way that information can be found and recalled immediately.
 --------------------
-[ policies, procedures, instructions, commands, methods, recipes, precedents, videos, docuements, spreadsheets, pictures, folders, etc. ]
+-Learning anything that requires frequent and fast reference to articles, theories, precedents [ how about coding? ]
+-Aggregating large numbers of files / notes stored in various locations
+-Linking to documents from various programs and websites
 
 Requirements:
 *Minimal HTML knowledge (or just leave the auto-generated formatting code alone)
@@ -25,11 +27,7 @@ The python script itself is far from a perfect example of best practices, but ru
 This was designed as an aid for a job that requires fast answers to questions regarding thousands of software suites, procedures, resources, guides, contacts, links, etc. 
 I wrote this because I do not know of a better, keyboard-oriented, note-indexing application that could suit my needs. I started using 'the guide' http://theguide.sourceforge.net/ many years ago and liked it very much, but I wanted an application that was drastically different in a few ways; an app that had a strong emphasis on keyboard shortcuts and searching with a clear division between general knowledge articles and templates (where everything could be copied and pasted quickly and then sent to a client without the need for too much post-editing). I also ran into the problem where I would get search result hits for both templates and my own personal guides since they would have similar titles.
 
-Uses: Note-taking and organizing notes in such a way that information can be found and recalled immediately.
---------------------
--Learning anything that requires frequent and fast reference to articles, theories, precedents [ how about coding? ]
--Aggregating large numbers of files / notes stored in various locations
--Linking to documents from various programs and websites
+
 
 Excuses:
 Since features are continually being added and / or changed, the integrated tutorial may not fully explain how to use the application to its full potential at this time. This application does not work well from USB, but does work portably.
