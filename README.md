@@ -37,5 +37,4 @@ Since features are continually being added and / or changed, the integrated tuto
 Plans:
 I plan on having the system automatically create a link for anything you drag and drop into the edit/create window.
 
-Chris KC
-2F0X.code@gmail.com
+- Chris KC - 2F0X.code@gmail.com - aspiring programmer -
