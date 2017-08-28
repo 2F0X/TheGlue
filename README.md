@@ -4,10 +4,9 @@ Information is stored in a separate database file.
 The searching is handled with a mix of python and SQL.
 'Documents' are retrieved from the database and translated to HTML for display purposes.
 
-Goals: Connect numerous little pieces of information [ policies, procedures, instructions, commands, methods, recipes, etc. ]
+Goal: Connect numerous little pieces of information and make them searchable, so they can be found immediately
 --------------------
-*Make them searchable so they can be recalled in as little time as possible
-*Allow *some* formatting to place emphasis where needed
+[ policies, procedures, instructions, commands, methods, recipes, precedents, videos, docuements, spreadsheets, pictures, folders, etc. ]
 
 Requirements:
 *Minimal HTML knowledge (or just leave the auto-generated formatting code alone)
