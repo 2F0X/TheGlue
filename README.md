@@ -1,8 +1,12 @@
 # TheGlue
-Search engine interfacing local SQL database with GUI [ PyQt5 ]
+Simplified search engine [Python 3.4] interfacing local SQL database [SQLite3] with GUI [PyQt5].
+
 Information is stored in a separate database file.
+
 The searching is handled with a mix of python and SQL.
+
 'Documents' are retrieved from the database and translated to HTML for display purposes.
+
 
 Goal: Connect numerous little pieces of information and make them searchable, so they can be found immediately
 --------------------
