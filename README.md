@@ -4,14 +4,14 @@ Information is stored in a separate database file.
 The searching is handled with a mix of python and SQL.
 'Documents' are retrieved from the database and translated to HTML for display purposes.
 
-Goals:
--Connect numerous little pieces of information [ policies, procedures, instructions, commands, methods, recipes, etc. ]
--Make them searchable so they can be recalled in as little time as possible
--Allow *some* formatting to place emphasis where needed
+Goals: Connect numerous little pieces of information [ policies, procedures, instructions, commands, methods, recipes, etc. ]
+--------------------
+*Make them searchable so they can be recalled in as little time as possible
+*Allow *some* formatting to place emphasis where needed
 
 Requirements:
--Minimal HTML knowledge (or just leave the auto-generated formatting code alone)
--Skill with a keyboard (this was not really designed for point-and-click although you could use it that way)
+*Minimal HTML knowledge (or just leave the auto-generated formatting code alone)
+*Skill with a keyboard (this was not really designed for point-and-click although you could use it that way)
 
 Author's notes:
 I did what I could to make it possible to create, edit, and format 'documents'(web pages which are database entries) without any need for the user to have skill with HTML or CSS, although some code will display within the 'edit / create' window.
